@@ -282,7 +282,9 @@ control cycle:
 
 ### Economic
 
-![](report%2011.png)
+<p align="center">
+    <img src="report%2011.png" width="700" length = "200" >
+</p>
 
 The above table shows the clear relationship between average GDP and
 revenue per capita across 20 major competitors in the FSA tournament.
