@@ -283,7 +283,7 @@ control cycle:
 ### Economic
 
 <p align="center">
-    <img src="report%2011.png" width="700" length = "200" >
+    <img src="report%2011.png" width="500" length = "100" >
 </p>
 
 The above table shows the clear relationship between average GDP and
