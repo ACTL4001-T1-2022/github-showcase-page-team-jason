@@ -3,7 +3,7 @@ SOA Challenge: Team Jason! Submission
 
 By Daniel Nersisyan, Samuel Bray, Jason Liu
 
-![Alt Text](https://giphy.com/gifs/playmobil-football-soccer-1n3HWMtH7rP4onw75P)
+![Alt Text](https://media.giphy.com/media/1n3HWMtH7rP4onw75P/giphy.gif)
 
 
 Objectives of Analysis
