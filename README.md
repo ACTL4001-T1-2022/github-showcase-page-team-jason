@@ -37,8 +37,9 @@ criteria to guide the selection process for each position.
     
 ### Forward - Selection Guide
 <p align="center">
-    <img src=report%202.png" width="400" length = "500" >
+    <img src="report%202.png" width="400" length = "500" >
 </p>
+                                                       
 ### Midfielder - 8 most influential positional statistics by MSE according to random forest model
 
 ![](report%203.png)
