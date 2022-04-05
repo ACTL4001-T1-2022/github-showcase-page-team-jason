@@ -103,7 +103,9 @@ most influential statistics for each position. The model predicted our
 team would have placed 8th in the 2021 tournament and gave the following
 placement probabilities:
 
-![](report%2010.png)
+<p align="center">
+    <img src="report%2010.png" width="600" length = "300" >
+</p>
 
 From this table, it is highly probable that our team will achieve top 10
 within 5 years and there is a reasonable probability that the team will
