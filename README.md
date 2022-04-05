@@ -314,7 +314,9 @@ Rarita’s dynamic pricing and economic awareness. The below table shows
 the hypothetical economic probabilities based on previous performance,
 and the subsequent recommended adjustments.
 
-![](report%2013.png)
+<p align="center">
+    <img src="report%2013.png" width="500" length = "100" >
+</p>
 
 ### Player injury/performance
 
