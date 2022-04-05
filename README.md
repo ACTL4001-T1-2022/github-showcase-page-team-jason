@@ -297,7 +297,9 @@ hinder economic performance, football revenue would also be hindered.
 Inflation is predicted to slightly increase and continue its cyclical
 pattern shown below.
 
-![](report%2012.png)
+<p align="center">
+    <img src="report%2012.png">
+</p>
 
 While these are not dangerous levels, a marginal increase in prices of
 consumer goods can impact the savings rate (which increased 0.7% in
