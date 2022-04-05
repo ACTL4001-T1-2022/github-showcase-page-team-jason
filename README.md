@@ -31,7 +31,7 @@ criteria to guide the selection process for each position.
 
 ### Forward - 8 most influential positional statistics by MSE according to random forest model
 
-<img src="report%201.png" width="600">
+<img src="report%201.png" width="200" length = "400 >
 
 ### Forward - Selection Guide
 
