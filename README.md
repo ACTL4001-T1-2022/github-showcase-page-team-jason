@@ -31,9 +31,11 @@ criteria to guide the selection process for each position.
 
 ### Forward - 8 most influential positional statistics by MSE according to random forest model
 
-![](https://github.com/danielnersisyan/github-showcase-page-team-jason/blob/main/report%201.png)
+![](report%201.png)
 
 ### Forward - Selection Guide
+
+![](report%202.png)
 
 ### Midfielder - 8 most influential positional statistics by MSE according to random forest model
 
@@ -41,23 +43,23 @@ criteria to guide the selection process for each position.
 
 ### Midfielder - Selection Guide
 
-![](/Users/danielnersisyan/Desktop/report%204.png)
+![](report%204.png)
 
 ### Defender - 8 most influential positional statistics by MSE according to random forest model
 
-![](/Users/danielnersisyan/Desktop/report%205.png)
+![](report%205.png)
 
 ### Defender - Selection Guide
 
-![](/Users/danielnersisyan/Desktop/report%206.png)
+![](report%206.png)
 
 ### Goalkeeper - 8 most influential positional statistics by MSE according to random forest model
 
-![](/Users/danielnersisyan/Desktop/report%207.png)
+![](report%207.png)
 
 ### Goalkeeper - Selection Guide
 
-![](/Users/danielnersisyan/Desktop/report%208.png)
+![](report%208.png)
 
 ### Selection of Players
 
@@ -71,8 +73,9 @@ and the selection guide for each position. Loaned players were only
 chosen when the conditions for Ratitian nationality players could not be
 fulfilled.
 
-![](/Users/danielnersisyan/Desktop/report%209.png) \#\#\# Probability
-for Success
+![](report%209.png) 
+
+### Probability for Success
 
 The probability of success was determined through the probabilities of
 our constructed team coming in the top 10, top 3 and achieving first
@@ -82,7 +85,7 @@ most influential statistics for each position. The model predicted our
 team would have placed 8th in the 2021 tournament and gave the following
 placement probabilities:
 
-![](/Users/danielnersisyan/Desktop/report%2010.png)
+![](report%2010.png)
 
 From this table, it is highly probable that our team will achieve top 10
 within 5 years and there is a reasonable probability that the team will
@@ -259,7 +262,7 @@ control cycle:
 
 ### Economic
 
-![](/Users/danielnersisyan/Desktop/report%2011.png)
+![](report%2011.png)
 
 The above table shows the clear relationship between average GDP and
 revenue per capita across 20 major competitors in the FSA tournament.
@@ -272,7 +275,7 @@ hinder economic performance, football revenue would also be hindered.
 Inflation is predicted to slightly increase and continue its cyclical
 pattern shown below.
 
-![](/Users/danielnersisyan/Desktop/report%2012.png)
+![](report%2012.png)
 
 While these are not dangerous levels, a marginal increase in prices of
 consumer goods can impact the savings rate (which increased 0.7% in
@@ -287,7 +290,7 @@ Rarita’s dynamic pricing and economic awareness. The below table shows
 the hypothetical economic probabilities based on previous performance,
 and the subsequent recommended adjustments.
 
-![](/Users/danielnersisyan/Desktop/report%2013.png)
+![](report%2013.png)
 
 ### Player injury/performance
 
@@ -323,7 +326,7 @@ undefined observations for a number of observations as seen below. This
 limitation would reduce the accuracy of our team selection models as the
 data is incomplete.
 
-![](/Users/danielnersisyan/Desktop/report%2014.png)
+![](report%2014.png)
 
 Inconsistency: Data was inconsistent with standardised values in the
 tournament data outside the range of 0 to 100. Data was also
