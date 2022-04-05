@@ -315,7 +315,7 @@ the hypothetical economic probabilities based on previous performance,
 and the subsequent recommended adjustments.
 
 <p align="center">
-    <img src="report%2013.png" width="500" length = "100" >
+    <img src="report%2013.png" width="700" length = "300" >
 </p>
 
 ### Player injury/performance
