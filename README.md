@@ -89,7 +89,9 @@ and the selection guide for each position. Loaned players were only
 chosen when the conditions for Ratitian nationality players could not be
 fulfilled.
 
-![](report%209.png) 
+<p align="center">
+    <img src="report%209.png" width="700" length = "200" >
+</p>
 
 ### Probability for Success
 
