@@ -49,23 +49,33 @@ criteria to guide the selection process for each position.
 
 ### Midfielder - Selection Guide
 
-![](report%204.png)
+<p align="center">
+    <img src="report%204.png" width="700" length = "700" >
+</p>
 
 ### Defender - 8 most influential positional statistics by MSE according to random forest model
 
-![](report%205.png)
+<p align="center">
+    <img src="report%205.png" width="300" length = "600" >
+</p>
 
 ### Defender - Selection Guide
 
-![](report%206.png)
+<p align="center">
+    <img src="report%206.png" width="700" length = "700" >
+</p>
 
 ### Goalkeeper - 8 most influential positional statistics by MSE according to random forest model
 
-![](report%207.png)
+<p align="center">
+    <img src="report%207.png" width="300" length = "600" >
+</p>
 
 ### Goalkeeper - Selection Guide
 
-![](report%208.png)
+<p align="center">
+    <img src="report%208.png" width="700" length = "700" >
+</p>
 
 ### Selection of Players
 
