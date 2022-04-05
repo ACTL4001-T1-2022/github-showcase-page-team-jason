@@ -37,7 +37,7 @@ criteria to guide the selection process for each position.
 
 ### Midfielder - 8 most influential positional statistics by MSE according to random forest model
 
-![](/Users/danielnersisyan/Desktop/report%203.png)
+![](report%203.png)
 
 ### Midfielder - Selection Guide
 
