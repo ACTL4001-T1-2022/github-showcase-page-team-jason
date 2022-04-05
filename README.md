@@ -4,7 +4,7 @@ SOA Challenge: Team Jason! Submission
 By Daniel Nersisyan, Samuel Bray, Jason Liu
 
 
-
+![Alt Text](Soccer Gif.html)
 
 
 
