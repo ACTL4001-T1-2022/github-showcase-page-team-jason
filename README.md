@@ -3,8 +3,7 @@ SOA Challenge: Team Jason! Submission
 
 By Daniel Nersisyan, Samuel Bray, Jason Liu
 
-
-![Alt Text](Soccer Gif.html)
+![Alt Text]<iframe src="https://giphy.com/embed/1n3HWMtH7rP4onw75P" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/playmobil-football-soccer-1n3HWMtH7rP4onw75P">via GIPHY</a></p>
 
 
 
