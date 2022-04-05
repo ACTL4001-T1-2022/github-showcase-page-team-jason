@@ -4,7 +4,7 @@ SOA Challenge: Team Jason! Submission
 By Daniel Nersisyan, Samuel Bray, Jason Liu
 
 <p align="center">
-    ![Alt Text](https://media.giphy.com/media/1n3HWMtH7rP4onw75P/giphy.gif)
+    <img src=(https://media.giphy.com/media/1n3HWMtH7rP4onw75P/giphy.gif>
 </p>
 
 Objectives of Analysis
